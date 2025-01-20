@@ -1,13 +1,15 @@
 <!---
 ANIKET0102/ANIKET0102 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
+<img align="right" width="400px" alt="coding" src="https://i.pinimg.com/originals/75/e7/ef/75e7ef7aa27009befb076509382b86b8.gif"> 
 --->
 ![logo](https://github.com/ANIKET0102/ANIKET0102/blob/main/Group%206.png)
 
 <h1 align="center">Hi 👋, I'm Aniket Pawar</h1>
 <h3 align="center">A passionate web developer from India</h3>
 
-<img align="right" width="400px" alt="coding" src="https://i.pinimg.com/originals/75/e7/ef/75e7ef7aa27009befb076509382b86b8.gif">
+ 
+<img align="right" width="400px" alt="loop" src="https://media.giphy.com/media/K5kfQExKk731K/giphy.gif">
 
 - 🔭 I’m currently working on **Web Development project**
 
