@@ -4,7 +4,7 @@ You can click the Preview link to take a look at your changes.
 --->
 ![logo](https://github.com/ANIKET0102/ANIKET0102/blob/main/banner.jpeg)
 <h1 align="center">Hi 👋, I'm Aniket Pawar</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate web developer from India</h3>
 
 <img align="right" width="400px" alt="coding" src="https://i.pinimg.com/originals/75/e7/ef/75e7ef7aa27009befb076509382b86b8.gif">
 
